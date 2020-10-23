@@ -20,6 +20,8 @@ jobs:
     - name: Install node dependencies
       run: npm install
     - name: Check for RSS feed updates
+      env:
+        BLOG_FEED: ${{ secrets.BLOG_FEED }}
       run: npm run scrape
     - name: Commit and push if changed
       run: |-

@@ -8,7 +8,7 @@ const parser = new Parser();
  
 (async () => {
   // Get three latest posts from my blog
-  const feed = await parser.parseURL('https://www.danielleheberling.xyz/rss.xml');
+  const feed = await parser.parseURL(process.env.BLOG_FEED);
 
   const postData = feed.items.map(post => {
     const { title, link } = post;
