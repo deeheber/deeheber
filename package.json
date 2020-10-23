@@ -1,0 +1,10 @@
+{
+  "name": "deeheber-readme",
+  "version": "1.0.0",
+  "scripts": {
+    "scrape": "node update-readme.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.9.0"
+  }
+}
