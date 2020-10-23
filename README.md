@@ -14,11 +14,11 @@
 </td><td valign="top" width="50%">
 
 #### Latest Posts
-<!-- update -->
-- [Dangers of Console-Driven Development](https://www.danielleheberling.xyz/blog/console-driven-development/)
-- [Computer Science for Everyone - Queues](https://www.danielleheberling.xyz/blog/cs-queues/)
-- [Lambda Layer Update](https://www.danielleheberling.xyz/blog/lambda-layer-update/)
-<!-- update -->
+<!-- start latest posts -->
+- [Dangers of Console-Driven Development](https://danielleheberling.xyz/blog/console-driven-development/)
+- [Computer Science for Everyone - Queues](https://danielleheberling.xyz/blog/cs-queues/)
+- [Lambda Layer Update](https://danielleheberling.xyz/blog/lambda-layer-update/)
+<!-- end latest posts -->
 
 </td>
 </tr></table>
