@@ -19,6 +19,8 @@ const parser = new Parser();
   for (let i = 0; i < 3; i++) {
     const { link, title } = postData[i];
     const row = `- [${title}](${link})\n`;
+
+    console.log(`Post #${i + 1} found. Title: ${title} Link: ${link}\n`);
     updates = updates.concat(row);
   }
   updates = updates.concat('<!-- end latest posts -->');
@@ -28,5 +30,5 @@ const parser = new Parser();
   const postsSection = /<!-- start latest posts -->[\s\S]*<!-- end latest posts -->/g;
   const newText = currentText.replace(postsSection, updates)
 
-  await writeFile('README.md', newText)
+  await writeFile('README.md', newText);
 })();
