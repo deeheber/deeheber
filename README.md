@@ -4,9 +4,7 @@
   
 #### About
 - 💼 **Work:** Software Engineer at [Stackery](https://www.stackery.io/) 
-- 🔙 **Previous:** [AppleCare](https://support.apple.com/), [Squarespace](https://www.squarespace.com/) 
-- 🧠 **Interests:** Serverless, DevOps, AWS, JavaScript 
-- 💡 **Learning:** Golang, Computer Science fundamentals 
+- 🧠 **Interests:** JavaScript, Serverless, AWS 
 - 🗣 **[Talks](https://www.danielleheberling.xyz/talks)**
 - ✏️ **[Writing](https://www.danielleheberling.xyz/)**
 - 🐦 **[Twitter](https://twitter.com/deeheber)**
