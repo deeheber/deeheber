@@ -5,7 +5,7 @@
 #### About
 - 💼 **Work:** Software Engineer at [Stackery](https://www.stackery.io/) 
 - 🧠 **Interests:** JavaScript, Serverless, AWS 
-- 🗣 **[Talks](https://www.danielleheberling.xyz/talks)**
+- 🗣 **[Speaking](https://www.danielleheberling.xyz/speaking)**
 - ✏️ **[Writing](https://www.danielleheberling.xyz/)**
 - 🐦 **[Twitter](https://twitter.com/deeheber)**
 
