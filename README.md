@@ -3,8 +3,7 @@
 <table rules="none"><tr><td valign="top" width="50%">
   
 #### About
-- 💼 **Work:** Software Engineer
-- 🧠 **Interests:** JavaScript, Serverless, AWS, IoT 
+- 🧠 **Interests:** Serverless, IoT, JavaScript, AWS 
 - 🗣 **[Speaking](https://www.danielleheberling.xyz/speaking)**
 - ✏️ **[Writing](https://www.danielleheberling.xyz/)**
 - 🐦 **[Twitter](https://twitter.com/deeheber)**
