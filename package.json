@@ -5,7 +5,7 @@
     "scrape": "node update-readme.js"
   },
   "dependencies": {
-    "rss-parser": "^3.9.0"
+    "rss-parser": "^3.10.0"
   },
   "repository": {
     "type": "git",
