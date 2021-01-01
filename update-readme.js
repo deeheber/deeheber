@@ -4,17 +4,12 @@ const parser = new Parser();
  
 (async () => {
   try {
-    // Get three latest posts from my blog
-    const feed = await parser.parseURL('https://www.danielleheberling.xyz/rss.xml');
-
-    const postData = feed.items.map(post => {
-      const { title, link } = post;
-      return { title, link };
-    });
+    // Get three latest posts from my blog's RSS feed
+    const { items } = await parser.parseURL('https://www.danielleheberling.xyz/rss.xml');
 
     let updates = `<!-- start latest posts -->\n`;
     for (let i = 0; i < 3; i++) {
-      const { link, title } = postData[i];
+      const { link, title } = items[i];
       const row = `- [${title}](${link})\n`;
 
       console.log(`Post #${i + 1} found. Title: ${title} Link: ${link}\n`);
