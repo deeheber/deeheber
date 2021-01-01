@@ -13,6 +13,8 @@
 #### Latest Posts
 <!-- start latest posts -->
 - [5 Things I Learned from Advent of Code](https://danielleheberling.xyz/blog/advent-of-code/)
+- [Using GitHub Actions to Build a Self Updating README](https://danielleheberling.xyz/blog/github-actions/)
+- [Dangers of Console-Driven Development](https://danielleheberling.xyz/blog/console-driven-development/)
 <!-- end latest posts -->
 
 </td>
