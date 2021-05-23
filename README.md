@@ -12,9 +12,9 @@
 
 #### Latest Posts
 <!-- start latest posts -->
+- [You Are More Than Your Tech Choices](https://danielleheberling.xyz/blog/you-are-more/)
 - [Upgrading to the AWS SDK for JavaScript v3](https://danielleheberling.xyz/blog/new-aws-js-sdk/)
 - [5 Things I Learned from Advent of Code](https://danielleheberling.xyz/blog/advent-of-code/)
-- [Using GitHub Actions to Build a Self Updating README](https://danielleheberling.xyz/blog/github-actions/)
 <!-- end latest posts -->
 
 </td>
