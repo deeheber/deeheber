@@ -12,9 +12,9 @@
 
 #### Latest Posts
 <!-- start latest posts -->
+- [Build a GraphQL API with TypeScript, AWS AppSync, and CDK](https://danielleheberling.xyz/blog/appsync-cdk/)
 - [You Are More Than Your Tech Choices](https://danielleheberling.xyz/blog/you-are-more/)
 - [Upgrading to the AWS SDK for JavaScript v3](https://danielleheberling.xyz/blog/new-aws-js-sdk/)
-- [5 Things I Learned from Advent of Code](https://danielleheberling.xyz/blog/advent-of-code/)
 <!-- end latest posts -->
 
 </td>
