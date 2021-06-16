@@ -21,11 +21,11 @@ jobs:
       run: npm install
     - name: Check for RSS feed updates
       run: npm run scrape
-    - name: Commit and push if changed
+    - name: Commit and push
       run: |-
         git diff
         git config --global user.email "actions@users.noreply.github.com"
         git config --global user.name "README-bot"
         git add -A
-        git commit -m "Updated content" || exit 0
+        git commit -m "Update content" || git commit --allow-empty -m "Empty commit"
         git push
