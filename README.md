@@ -12,9 +12,9 @@
 
 #### Latest Posts
 <!-- start latest posts -->
+- [Event Driven Background Processes](https://danielleheberling.xyz/blog/event-driven-background-processes/)
+- [Routing on the Edge](https://danielleheberling.xyz/blog/routing-on-the-edge/)
 - [The Secret to Getting More Done](https://danielleheberling.xyz/blog/take-a-walk/)
-- [Build a GraphQL API with TypeScript, AWS AppSync, and CDK](https://danielleheberling.xyz/blog/appsync-cdk/)
-- [You Are More Than Your Tech Choices](https://danielleheberling.xyz/blog/you-are-more/)
 <!-- end latest posts -->
 
 </td>
