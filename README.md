@@ -12,9 +12,9 @@
 
 #### Latest Posts
 <!-- start latest posts -->
+- [On Home and Remote Work](https://danielleheberling.xyz/blog/remote-work-home/)
 - [Event Driven Background Processes](https://danielleheberling.xyz/blog/event-driven-background-processes/)
 - [Routing on the Edge](https://danielleheberling.xyz/blog/routing-on-the-edge/)
-- [The Secret to Getting More Done](https://danielleheberling.xyz/blog/take-a-walk/)
 <!-- end latest posts -->
 
 </td>
