@@ -1,6 +1,7 @@
 {
   "name": "deeheber-readme",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "scrape": "node update-readme.js"
   },
