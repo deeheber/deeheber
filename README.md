@@ -10,7 +10,7 @@
 
 #### **Latest Posts**
 <!-- start latest posts -->
+- [My Top Three AWS re:Invent 2021 Announcements](https://danielleheberling.xyz/blog/reinvent-2021/)
 - [On Home and Remote Work](https://danielleheberling.xyz/blog/remote-work-home/)
 - [Event Driven Background Processes](https://danielleheberling.xyz/blog/event-driven-background-processes/)
-- [Routing on the Edge](https://danielleheberling.xyz/blog/routing-on-the-edge/)
 <!-- end latest posts -->
