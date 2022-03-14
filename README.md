@@ -10,7 +10,7 @@
 
 #### **Latest Posts**
 <!-- start latest posts -->
+- [Are You Paying Attention?](https://danielleheberling.xyz/blog/are-you-paying-attention/)
 - [Upgrading to CDK v2 for Typescript](https://danielleheberling.xyz/blog/upgrading-to-cdk-v2/)
 - [My Top Three AWS re:Invent 2021 Announcements](https://danielleheberling.xyz/blog/reinvent-2021/)
-- [On Home and Remote Work](https://danielleheberling.xyz/blog/remote-work-home/)
 <!-- end latest posts -->
