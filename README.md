@@ -10,7 +10,7 @@
 
 #### **Latest Posts**
 <!-- start latest posts -->
+- [Making the Switch - Software Development on Pop!_OS](https://danielleheberling.xyz/blog/desktop-linux-development/)
 - [Are You Paying Attention?](https://danielleheberling.xyz/blog/are-you-paying-attention/)
 - [Upgrading to CDK v2 for Typescript](https://danielleheberling.xyz/blog/upgrading-to-cdk-v2/)
-- [My Top Three AWS re:Invent 2021 Announcements](https://danielleheberling.xyz/blog/reinvent-2021/)
 <!-- end latest posts -->
