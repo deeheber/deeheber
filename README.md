@@ -10,7 +10,7 @@
 
 #### **Latest Posts**
 <!-- start latest posts -->
+- [The Job Seeker's Jungle](https://danielleheberling.xyz/blog/jobseekers-jungle/)
 - [Making the Switch - Software Development on Pop!_OS](https://danielleheberling.xyz/blog/desktop-linux-development/)
 - [Are You Paying Attention?](https://danielleheberling.xyz/blog/are-you-paying-attention/)
-- [Upgrading to CDK v2 for Typescript](https://danielleheberling.xyz/blog/upgrading-to-cdk-v2/)
 <!-- end latest posts -->
