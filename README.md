@@ -10,7 +10,7 @@
 
 #### **Latest Posts**
 <!-- start latest posts -->
+- [Improved git workflows with graphite.dev](https://danielleheberling.xyz/blog/git-collaboration/)
 - [The Job Seeker's Jungle](https://danielleheberling.xyz/blog/jobseekers-jungle/)
 - [Making the Switch - Software Development on Pop!_OS](https://danielleheberling.xyz/blog/desktop-linux-development/)
-- [Are You Paying Attention?](https://danielleheberling.xyz/blog/are-you-paying-attention/)
 <!-- end latest posts -->
