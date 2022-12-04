@@ -10,7 +10,7 @@
 
 #### **Latest Posts**
 <!-- start latest posts -->
+- [AWS Application Composer, the App Building Future We Need](https://danielleheberling.xyz/blog/aws-application-composer/)
 - [Improved git workflows with graphite.dev](https://danielleheberling.xyz/blog/git-collaboration/)
 - [The Job Seeker's Jungle](https://danielleheberling.xyz/blog/jobseekers-jungle/)
-- [Making the Switch - Software Development on Pop!_OS](https://danielleheberling.xyz/blog/desktop-linux-development/)
 <!-- end latest posts -->
