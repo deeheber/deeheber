@@ -1,6 +1,7 @@
 ### Hi. I'm Danielle. Welcome to my tiny corner of GitHub. 👋
 
 #### **About**
+
 - 🧠 **Likes:** TypeScript, GraphQL, Serverless
 - 🗣 **[Speaking](https://www.danielleheberling.xyz/speaking)**
 - ✏️ **[Writing](https://www.danielleheberling.xyz/)**
@@ -9,6 +10,7 @@
 <hr />
 
 #### **Latest Posts**
+
 <!-- start latest posts -->
 - [AWS Application Composer, the App Building Future We Need](https://danielleheberling.xyz/blog/aws-application-composer/)
 - [Improved git workflows with graphite.dev](https://danielleheberling.xyz/blog/git-collaboration/)
