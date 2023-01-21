@@ -12,7 +12,7 @@
 #### **Latest Posts**
 
 <!-- start latest posts -->
+- [A Poem About Layoffs](https://danielleheberling.xyz/blog/layoff-poem/)
 - [AWS Application Composer, the App Building Future We Need](https://danielleheberling.xyz/blog/aws-application-composer/)
 - [Improved git workflows with graphite.dev](https://danielleheberling.xyz/blog/git-collaboration/)
-- [The Job Seeker's Jungle](https://danielleheberling.xyz/blog/jobseekers-jungle/)
 <!-- end latest posts -->
