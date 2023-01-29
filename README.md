@@ -1,4 +1,4 @@
-### Hi. I'm Danielle. Welcome to my tiny corner of GitHub. 👋
+### Hi. I'm Danielle. Welcome to my tiny corner of GitHub. 👋🏻
 
 #### **About**
 
@@ -8,7 +8,7 @@
 
 <hr />
 
-#### **Latest Blog Posts**
+#### **Latest Blog Posts** 🚀
 
 <!-- start latest posts -->
 - [AWS Application Composer, the App Building Future We Need](https://danielleheberling.xyz/blog/aws-application-composer/)
