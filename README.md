@@ -2,14 +2,13 @@
 
 #### **About**
 
-- 🧠 **Likes:** TypeScript, GraphQL, Serverless
-- 🗣 **[Speaking](https://www.danielleheberling.xyz/speaking)**
-- ✏️ **[Writing](https://www.danielleheberling.xyz/)**
-- 🐦 **[Twitter](https://twitter.com/deeheber)**
+- ❤️ **Interests:** TypeScript, GraphQL, Serverless, Cloud computing
+- 🎤 **[Speaking](https://www.danielleheberling.xyz/speaking)**
+- ✍🏻 **[Writing](https://www.danielleheberling.xyz)**
 
 <hr />
 
-#### **Latest Posts**
+#### **Latest Blog Posts**
 
 <!-- start latest posts -->
 - [AWS Application Composer, the App Building Future We Need](https://danielleheberling.xyz/blog/aws-application-composer/)
