@@ -2,7 +2,7 @@
 
 #### **About**
 
-- ❤️ **Interests:** TypeScript, GraphQL, Serverless, Cloud computing
+- ❤️ **Interests:** Serverless, Cloud computing, TypeScript, GraphQL
 - 🎤 **[Speaking](https://www.danielleheberling.xyz/speaking)**
 - ✍🏻 **[Writing](https://www.danielleheberling.xyz)**
 
