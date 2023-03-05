@@ -11,7 +11,7 @@
 #### **Latest Blog Posts** 🚀
 
 <!-- start latest posts -->
+- [Serverless Weather Reporting with AWS Step Functions and CDK](https://danielleheberling.xyz/blog/serverless-weather-reporting/)
 - [AWS Application Composer, the App Building Future We Need](https://danielleheberling.xyz/blog/aws-application-composer/)
 - [Improved git workflows with graphite.dev](https://danielleheberling.xyz/blog/git-collaboration/)
-- [The Job Seeker's Jungle](https://danielleheberling.xyz/blog/jobseekers-jungle/)
 <!-- end latest posts -->
