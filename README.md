@@ -11,7 +11,7 @@
 #### **Latest Blog Posts** 🚀
 
 <!-- start latest posts -->
+- [The Problem with "It Works on My Computer"](https://danielleheberling.xyz/blog/works-on-my-computer/)
 - [Serverless Weather Reporting with AWS Step Functions and CDK](https://danielleheberling.xyz/blog/serverless-weather-reporting/)
 - [AWS Application Composer, the App Building Future We Need](https://danielleheberling.xyz/blog/aws-application-composer/)
-- [Improved git workflows with graphite.dev](https://danielleheberling.xyz/blog/git-collaboration/)
 <!-- end latest posts -->
