@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Wait for danielleheberling.xyz deploy if repository_dispatch
         if: github.event_name == 'repository_dispatch'
-        run: echo "Waiting for danielleheberling.xyz deploy to finish" && sleep 10
+        run: echo "Waiting 3 min for danielleheberling.xyz deploy to finish" && sleep 180
         shell: bash
       - name: Check out repo
         uses: actions/checkout@v3
