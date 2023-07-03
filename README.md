@@ -11,7 +11,7 @@
 #### **Latest Blog Posts** 🚀
 
 <!-- start latest posts -->
+- [AWS Speakers Directory - Adding AI Functionality](https://danielleheberling.xyz/blog/hackathon-ai/)
 - [The Problem with "It Works on My Computer"](https://danielleheberling.xyz/blog/works-on-my-computer/)
 - [Serverless Weather Reporting with AWS Step Functions and CDK](https://danielleheberling.xyz/blog/serverless-weather-reporting/)
-- [AWS Application Composer, the App Building Future We Need](https://danielleheberling.xyz/blog/aws-application-composer/)
 <!-- end latest posts -->
