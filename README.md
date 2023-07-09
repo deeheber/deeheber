@@ -1,8 +1,9 @@
-### Hi. I'm Danielle. Welcome to my tiny corner of GitHub. 👋🏻
+### Hi. I'm Danielle Heberling. Welcome to my tiny corner of GitHub. 👋🏻
 
-#### **About**
+#### **About Me**
 
-- ❤️ **Interests:** Serverless, Cloud computing, TypeScript, GraphQL
+- ❤️ **Interests:** Serverless, Cloud Computing, TypeScript, GraphQL
+- 🦸‍♀️ **[AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/danielle-heberling/)**
 - 🎤 **[Speaking](https://www.danielleheberling.xyz/speaking)**
 - ✍🏻 **[Writing](https://www.danielleheberling.xyz)**
 
