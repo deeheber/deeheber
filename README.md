@@ -12,7 +12,7 @@
 #### **Latest Blog Posts** 🚀
 
 <!-- start latest posts -->
+- [My Personal Blog Site's CI/CD](https://danielleheberling.xyz/blog/blog-ci-cd/)
 - [Career Reflections](https://danielleheberling.xyz/blog/career-refelctions/)
 - [AWS Speakers Directory - Adding AI Functionality](https://danielleheberling.xyz/blog/hackathon-ai/)
-- [The Problem with "It Works on My Computer"](https://danielleheberling.xyz/blog/works-on-my-computer/)
 <!-- end latest posts -->
