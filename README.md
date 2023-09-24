@@ -12,7 +12,7 @@
 #### **Latest Blog Posts** 🚀
 
 <!-- start latest posts -->
+- [EventBridge Emoji Event Patterns](https://danielleheberling.xyz/blog/eventbridge-emoji/)
 - [My Personal Blog Site's CI/CD](https://danielleheberling.xyz/blog/blog-ci-cd/)
 - [Career Reflections](https://danielleheberling.xyz/blog/career-refelctions/)
-- [AWS Speakers Directory - Adding AI Functionality](https://danielleheberling.xyz/blog/hackathon-ai/)
 <!-- end latest posts -->
