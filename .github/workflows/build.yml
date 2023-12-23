@@ -1,7 +1,10 @@
 name: Build README
 
 on:
+  # manual trigger
   workflow_dispatch:
+  # trigger from
+  # https://github.com/deeheber/danielle-heberling-dot-xyz/blob/main/.github/workflows/dispatch.yml
   repository_dispatch:
     types: [scrape]
 
@@ -11,13 +14,13 @@ jobs:
 
     steps:
       - name: Check out repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Use Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: "18.x"
+          node-version-file: '.nvmrc'
       - name: Install node dependencies
-        run: npm install
+        run: npm ci
       - name: Check for RSS feed updates
         run: npm run scrape
       - name: Commit and push
