@@ -2,7 +2,7 @@
 
 #### **About Me**
 
-- ❤️ **Interests:** Serverless, Cloud Computing, TypeScript, GraphQL
+- ❤️ **Interests:** Serverless, Cloud Computing, Infrastructure as Code (IaC), TypeScript
 - 🦸‍♀️ **[AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/danielle-heberling/)**
 - 🎤 **[Speaking](https://www.danielleheberling.xyz/speaking)**
 - ✍🏻 **[Writing](https://www.danielleheberling.xyz)**
