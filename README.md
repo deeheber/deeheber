@@ -12,7 +12,7 @@
 #### **Latest Blog Posts** 🚀
 
 <!-- start latest posts -->
+- [How To Become An AWS Hero](https://danielleheberling.xyz/blog/how-to-hero/)
 - [Dear New Code School Grad](https://danielleheberling.xyz/blog/career-change-advice/)
 - [The Serverless Mindset and Infrastructure as Code](https://danielleheberling.xyz/blog/serverless-mindset-iac/)
-- [EventBridge Emoji Event Patterns](https://danielleheberling.xyz/blog/eventbridge-emoji/)
 <!-- end latest posts -->
