@@ -12,7 +12,7 @@
 #### **Latest Blog Posts** 🚀
 
 <!-- start latest posts -->
+- [The Collab Lab Team 66 Recap](https://danielleheberling.xyz/blog/tcl-66-recap/)
 - [How To Become An AWS Hero](https://danielleheberling.xyz/blog/how-to-hero/)
 - [Dear New Code School Grad](https://danielleheberling.xyz/blog/career-change-advice/)
-- [The Serverless Mindset and Infrastructure as Code](https://danielleheberling.xyz/blog/serverless-mindset-iac/)
 <!-- end latest posts -->
