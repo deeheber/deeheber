@@ -12,7 +12,7 @@
 #### **Latest Blog Posts** 🚀
 
 <!-- start latest posts -->
+- [Tips for Getting Started in Cloud](https://danielleheberling.xyz/blog/get-started-in-cloud/)
 - [The Collab Lab Team 66 Recap](https://danielleheberling.xyz/blog/tcl-66-recap/)
 - [How To Become An AWS Hero](https://danielleheberling.xyz/blog/how-to-hero/)
-- [Dear New Code School Grad](https://danielleheberling.xyz/blog/career-change-advice/)
 <!-- end latest posts -->
