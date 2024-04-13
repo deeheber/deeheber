@@ -4,18 +4,8 @@
 
 - [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/danielle-heberling/)
 - [Collab Lab Mentor](https://the-collab-lab.codes/)
-- deeheber was my AOL instant messenger screen name in high school and university
-- Current day job = improving electronic medical record software
-- Formerly worked at AAPL and SQSP
-
-<hr />
-
-#### Current Technology Interests 💡
-
-- Serverless
-- Cloud Computing
-- Infrastructure as Code (IaC)
-- TypeScript
+- Current tech interests: Serverless, Cloud Computing, Infrastructure as Code (IaC), TypeScript
+- Current day job: improving electronic medical record software
 
 <hr />
 
