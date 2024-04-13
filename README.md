@@ -6,13 +6,7 @@
 - [Collab Lab Mentor](https://the-collab-lab.codes/)
 - Current tech interests: Serverless, Cloud Computing, Infrastructure as Code (IaC), TypeScript
 - Current day job: improving electronic medical record software
-
-<hr />
-
-#### Media 📺
-
-- [Speaking](https://www.danielleheberling.xyz/speaking)
-- [Writing](https://www.danielleheberling.xyz)
+- Former day jobs: AAPL, SQSP, Tech Support, K-8 Music Teacher
 
 <hr />
 
