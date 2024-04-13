@@ -1,15 +1,32 @@
 ### Hi. I'm Danielle Heberling. Welcome to my tiny corner of GitHub. 👋🏻
 
-#### **About Me**
+#### About Me 😎
 
-- ❤️ **Interests:** Serverless, Cloud Computing, Infrastructure as Code (IaC), TypeScript
-- 🦸‍♀️ **[AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/danielle-heberling/)**
-- 🎤 **[Speaking](https://www.danielleheberling.xyz/speaking)**
-- ✍🏻 **[Writing](https://www.danielleheberling.xyz)**
+- [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/danielle-heberling/)
+- [Collab Lab Mentor](https://the-collab-lab.codes/)
+- deeheber was my AOL instant messenger screen name in high school and university
+- Current day job = improving electronic medical record software
+- Formerly worked at AAPL and SQSP
 
 <hr />
 
-#### **Latest Blog Posts** 🚀
+#### Current Technology Interests 💡
+
+- Serverless
+- Cloud Computing
+- Infrastructure as Code (IaC)
+- TypeScript
+
+<hr />
+
+#### Media 📺
+
+- [Speaking](https://www.danielleheberling.xyz/speaking)
+- [Writing](https://www.danielleheberling.xyz)
+
+<hr />
+
+#### Latest Blog Posts 🚀
 
 <!-- start latest posts -->
 - [Tips for Getting Started in Cloud](https://danielleheberling.xyz/blog/get-started-in-cloud/)
