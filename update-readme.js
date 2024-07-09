@@ -4,7 +4,7 @@ const parser = new Parser();
  
 try {
   // Get three latest posts from my blog's RSS feed
-  const { items } = await parser.parseURL('https://www.danielleheberling.xyz/rss.xml');
+  const { items } = await parser.parseURL('https://danielleheberling.xyz/rss.xml');
 
   let updates = `<!-- start latest posts -->\n`;
   for (let i = 0; i < 3; i++) {
