@@ -13,7 +13,7 @@
 #### Latest Blog Posts 🚀
 
 <!-- start latest posts -->
+- [Playdate Review](https://danielleheberling.xyz/blog/playdate-review/)
 - [Devs are Not the Target Market for AI](https://danielleheberling.xyz/blog/devs-not-target-market/)
 - [I'm Worried About Generative AI](https://danielleheberling.xyz/blog/generative-ai/)
-- [Tips for Getting Started in Cloud](https://danielleheberling.xyz/blog/get-started-in-cloud/)
 <!-- end latest posts -->
