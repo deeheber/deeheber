@@ -13,7 +13,7 @@
 #### Latest Blog Posts 🚀
 
 <!-- start latest posts -->
+- [Ephemeral Jobs Longer than the Lambda Timeout](https://danielleheberling.xyz/blog/ecs-run-task/)
 - [Playdate Review](https://danielleheberling.xyz/blog/playdate-review/)
 - [Devs are Not the Target Market for AI](https://danielleheberling.xyz/blog/devs-not-target-market/)
-- [I'm Worried About Generative AI](https://danielleheberling.xyz/blog/generative-ai/)
 <!-- end latest posts -->
