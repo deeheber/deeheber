@@ -3,9 +3,10 @@
 #### About Me 😎
 
 - Current tech interests: Serverless, Cloud Computing, Infrastructure as Code (IaC), TypeScript
+- Learning: Python, AI
 - [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/danielle-heberling/), [#BelieveInServerless Champion](https://www.believeinserverless.com/)
 - [Speaking](https://danielleheberling.xyz/talks/)
-- Current day job: improving electronic medical record software
+- Current day job: coming soon ™️
 - Some former day jobs: AAPL, SQSP, Tech Support, K-8 Music Teacher
 
 <hr />
