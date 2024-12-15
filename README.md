@@ -6,7 +6,7 @@
 - Learning: Python, AI
 - [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/danielle-heberling/), [#BelieveInServerless Champion](https://www.believeinserverless.com/)
 - [Speaking](https://danielleheberling.xyz/talks/)
-- Current day job: Building cloud infrstructure for data and AI tools that help consumers fight environmental harm.
+- Current day job: Building cloud infrastructure for data and AI tools that help consumers fight environmental harm.
 - Some former day jobs: AAPL, SQSP, Tech Support, K-8 Music Teacher
 
 <hr />
