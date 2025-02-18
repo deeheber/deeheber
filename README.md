@@ -14,7 +14,7 @@
 #### Latest Blog Posts 🚀
 
 <!-- start latest posts -->
+- [AWS Fargate on a Budget](https://danielleheberling.xyz/blog/fargate-on-a-budget/)
 - [Ephemeral Jobs Longer than the Lambda Timeout](https://danielleheberling.xyz/blog/ecs-run-task/)
 - [Playdate Review](https://danielleheberling.xyz/blog/playdate-review/)
-- [Devs are Not the Target Market for AI](https://danielleheberling.xyz/blog/devs-not-target-market/)
 <!-- end latest posts -->
