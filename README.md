@@ -13,7 +13,7 @@
 #### Latest Blog Posts 🚀
 
 <!-- start latest posts -->
+- [Should I Stay or Should I Go?](https://danielleheberling.xyz/blog/time-to-leave/)
 - [Most Valuable When Least Visible | The Security Paradox](https://danielleheberling.xyz/blog/security/)
 - [AWS Fargate on a Budget](https://danielleheberling.xyz/blog/fargate-on-a-budget/)
-- [Ephemeral Jobs Longer than the Lambda Timeout](https://danielleheberling.xyz/blog/ecs-run-task/)
 <!-- end latest posts -->
