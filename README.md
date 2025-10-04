@@ -5,7 +5,8 @@
 - Current tech interests: Serverless, Cloud Computing, Infrastructure as Code (IaC), TypeScript, Python, AI
 - [AWS Serverless Hero](https://builder.aws.com/community/@deeheber), [#BelieveInServerless](https://www.believeinserverless.com/)
 - [Writing](https://danielleheberling.xyz/blog/) & [Speaking](https://danielleheberling.xyz/talks/)
-- Some former day jobs: AAPL, SQSP, Tech Support, K-8 Music Teacher
+- Striving to leave things better than I found them
+- I deeply care about the things I build and how it affects the world around me
 
 <hr />
 
