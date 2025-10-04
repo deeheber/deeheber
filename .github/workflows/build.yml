@@ -4,7 +4,7 @@ on:
   # manual trigger
   workflow_dispatch:
   # trigger from
-  # https://github.com/deeheber/danielle-heberling-dot-xyz/blob/main/.github/workflows/dispatch.yml
+  # https://github.com/deeheber/Danielle-s-Blog/blob/main/.github/workflows/dispatch.yml
   repository_dispatch:
     types: [scrape]
 
@@ -14,9 +14,9 @@ jobs:
 
     steps:
       - name: Check out repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Use Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version-file: '.nvmrc'
       - name: Install node dependencies

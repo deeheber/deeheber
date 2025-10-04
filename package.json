@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "scrape": "node update-readme.js"
   },
   "dependencies": {
@@ -14,6 +15,6 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "prettier": "^3.5.1"
+    "prettier": "^3.6.2"
   }
 }

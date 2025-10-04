@@ -10,10 +10,13 @@ try {
 
   let updates = `<!-- start latest posts -->\n`
   for (let i = 0; i < 3; i++) {
-    const { link, title } = items[i]
-    const row = `- [${title}](${link})\n`
+    const { isoDate, link, title } = items[i]
+    const formattedDate = isoDate.slice(0, 10)
+    const row = `- ${formattedDate}: [${title}](${link})\n`
 
-    console.log(`Post #${i + 1} found. Title: ${title} Link: ${link}\n`)
+    console.debug(
+      `Post #${i + 1} found. Date: ${formattedDate} Title: ${title} Link: ${link}\n`,
+    )
     updates = updates.concat(row)
   }
   updates = updates.concat('<!-- end latest posts -->')
