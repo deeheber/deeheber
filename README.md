@@ -13,7 +13,6 @@
 #### Latest Blog Posts 🚀
 
 <!-- start latest posts -->
-
 - 2025-08-21: [Should I Stay or Should I Go?](https://danielleheberling.xyz/blog/time-to-leave/)
 - 2025-06-18: [Most Valuable When Least Visible | The Security Paradox](https://danielleheberling.xyz/blog/security/)
 - 2025-02-18: [AWS Fargate on a Budget](https://danielleheberling.xyz/blog/fargate-on-a-budget/)
