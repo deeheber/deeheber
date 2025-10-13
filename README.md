@@ -1,16 +1,16 @@
-### Hi. I'm Danielle Heberling. Welcome to my tiny corner of GitHub. 👋🏻
+# Hey, I'm Danielle 👋
 
-#### About Me 😎
+Software engineer in the Pacific Northwest building cloud infrastructure and serverless systems.
 
-- Current tech interests: Serverless, Cloud Computing, Infrastructure as Code (IaC), TypeScript, Python, AI
-- [AWS Serverless Hero](https://builder.aws.com/community/@deeheber), [#BelieveInServerless](https://www.believeinserverless.com/)
-- [Writing](https://danielleheberling.xyz/blog/) & [Speaking](https://danielleheberling.xyz/talks/)
-- Striving to leave things better than I found them
-- I deeply care about the things I build and how it affects the world around me
+## What I'm working with
+Serverless, Cloud Infrastructure, Infrastructure as Code, TypeScript, Python, and exploring AI applications in development workflows.
 
-<hr />
+## Find me
+- [AWS Serverless Hero](https://builder.aws.com/community/@deeheber)
+- Co-organizer of [Believe in Serverless Discord](https://www.believeinserverless.com/)
+- [Writing and speaking](https://danielleheberling.xyz) about infrastructure, career decisions, and the real challenges of shipping software
 
-#### Latest Blog Posts 🚀
+## Recent posts
 
 <!-- start latest posts -->
 - 2025-10-12: [Learning Outside Your Specialty | Why I Got a Kubernetes Cert](https://danielleheberling.xyz/blog/why-kubernetes/)
