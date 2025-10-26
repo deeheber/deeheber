@@ -1,6 +1,6 @@
 # Hey, I'm Danielle 👋
 
-Software engineer in the Pacific Northwest building cloud infrastructure and serverless systems.
+Software engineer in the Pacific Northwest building cloud infrastructure and serverless systems. Always learning and shipping things that solve real problems.
 
 ## What I'm working with
 Serverless, Cloud Infrastructure, Infrastructure as Code, TypeScript, Python, and exploring AI applications in development workflows.
