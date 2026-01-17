@@ -12,7 +12,7 @@ Software engineer in Cascadia 🌲 specializing in AWS serverless architecture a
 
 ## Recent posts
 <!-- start latest posts -->
+- 2026-01-17: [Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/)
 - 2025-11-19: [How You Do It Matters](https://danielleheberling.xyz/blog/how-matters/)
 - 2025-10-12: [Learning Outside Your Specialty | Why I Got a Kubernetes Cert](https://danielleheberling.xyz/blog/why-kubernetes/)
-- 2025-06-18: [Most Valuable When Least Visible | The Security Paradox](https://danielleheberling.xyz/blog/security/)
 <!-- end latest posts -->
