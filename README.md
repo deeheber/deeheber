@@ -12,7 +12,7 @@ Software engineer in Cascadia 🌲 specializing in AWS serverless architecture a
 
 ## Recent posts
 <!-- start latest posts -->
+- 2026-02-08: [Let an AI Agent Do Your Job Searching](https://danielleheberling.xyz/blog/job-search-agent/)
 - 2026-01-23: [A Strands Agent Template (For the Impatient)](https://danielleheberling.xyz/blog/strands-agent-template/)
 - 2026-01-17: [Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/)
-- 2025-11-19: [How You Do It Matters](https://danielleheberling.xyz/blog/how-matters/)
 <!-- end latest posts -->
