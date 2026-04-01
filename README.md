@@ -14,7 +14,7 @@ By day, I'm a Software Engineer specializing in DevOps building software for par
 
 ## Recent posts
 <!-- start latest posts -->
+- 2026-03-31: [I Built a Bookmarklet for Hillsboro Hops Fans](https://danielleheberling.xyz/blog/hillsboro-hops-calendar/)
 - 2026-03-25: [I've Worked for Some Bad Bosses. Here's What I Look For Now.](https://danielleheberling.xyz/blog/bad-bosses-what-i-look-for-now/)
 - 2026-03-01: [I Rewrote My Step Function as a Durable Function](https://danielleheberling.xyz/blog/durable-functions/)
-- 2026-02-08: [Let an AI Agent Do Your Job Searching](https://danielleheberling.xyz/blog/job-search-agent/)
 <!-- end latest posts -->
