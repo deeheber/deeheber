@@ -1,7 +1,7 @@
 # Hey, I'm Danielle 👋
 Software engineer in Cascadia 🌲 specializing in AWS serverless architecture and TypeScript. I focus on building reliable cloud infrastructure and backend systems, while helping teams ship effectively. Pragmatic about using whatever tools best solve the problem at hand.
 
-By day, I'm a Software Engineer specializing in DevOps building software for parks, camping, and RV management. Getting to combine my love of being outdoors with writing code that encourages others to get outside too? That's pretty great.
+By day, I'm a Software Engineer specializing in Cloud and Developer Tooling building software for parks, camping, and RV management. Getting to combine my love of being outdoors with writing code that encourages others to get outside too? That's pretty great.
 
 ## Core expertise
 - AWS Serverless, TypeScript, Python, Infrastructure as Code, and cloud architecture
