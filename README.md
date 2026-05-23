@@ -14,7 +14,7 @@ By day, I'm a Software Engineer specializing in Cloud and Developer Tooling buil
 
 ## Recent posts
 <!-- start latest posts -->
+- 2026-05-23: [Getting Claude Code off my laptop and onto shared compute](https://danielleheberling.xyz/blog/headless-claude-on-aws/)
 - 2026-04-22: [Good DevOps Engineers Leave Trails Not Gates](https://danielleheberling.xyz/blog/trails-not-gates/)
 - 2026-03-31: [I Built a Bookmarklet for Hillsboro Hops Fans](https://danielleheberling.xyz/blog/hillsboro-hops-calendar/)
-- 2026-03-25: [I've Worked for Some Bad Bosses. Here's What I Look For Now.](https://danielleheberling.xyz/blog/bad-bosses-what-i-look-for-now/)
 <!-- end latest posts -->
