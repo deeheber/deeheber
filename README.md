@@ -14,7 +14,7 @@ By day, I'm a Software Engineer specializing in Cloud and Developer Tooling buil
 
 ## Recent posts
 <!-- start latest posts -->
+- 2026-06-06: [Signal and Noise](https://danielleheberling.xyz/blog/signal-and-noise/)
 - 2026-06-01: [The In Between](https://danielleheberling.xyz/blog/the-in-between/)
 - 2026-05-23: [Getting Claude Code off my laptop and onto shared compute](https://danielleheberling.xyz/blog/headless-claude-on-aws/)
-- 2026-04-22: [Good DevOps Engineers Leave Trails Not Gates](https://danielleheberling.xyz/blog/trails-not-gates/)
 <!-- end latest posts -->
