@@ -18,7 +18,7 @@ By day, I build software for parks, camping, and RV management. Getting to combi
 ## Recent posts
 
 <!-- start latest posts -->
+- 2026-08-01: [EventBridge Scheduler DLQ'd My Successful Invokes](https://danielleheberling.xyz/blog/scheduler-dlq-followup/)
 - 2026-06-06: [Signal and Noise](https://danielleheberling.xyz/blog/signal-and-noise/)
 - 2026-06-01: [The In Between](https://danielleheberling.xyz/blog/the-in-between/)
-- 2026-05-23: [Getting Claude Code off my laptop and onto shared compute](https://danielleheberling.xyz/blog/headless-claude-on-aws/)
 <!-- end latest posts -->
