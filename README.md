@@ -18,7 +18,7 @@ By day, I build software for parks, camping, and RV management. Getting to combi
 ## Recent posts
 
 <!-- start latest posts -->
+- 2026-08-13: [Not All AI Builders Are Doing the Same Work](https://danielleheberling.xyz/blog/types-of-ai-builders/)
 - 2026-08-01: [EventBridge Scheduler DLQ'd My Successful Invokes](https://danielleheberling.xyz/blog/scheduler-dlq-followup/)
 - 2026-06-06: [Signal and Noise](https://danielleheberling.xyz/blog/signal-and-noise/)
-- 2026-06-01: [The In Between](https://danielleheberling.xyz/blog/the-in-between/)
 <!-- end latest posts -->
